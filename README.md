@@ -1,16 +1,13 @@
-### Hi there 👋
+# 안재욱 (Jaewook Ahn)
 
-<!--
-**Jaewoook/Jaewoook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+제 프로필에 방문해주셔서 감사합니다. 오픈소스와 웹 기술에 관심 많은 안재욱입니다. 약 2년 동안 웹 프론트엔드 엔지니어로 재직하다가 현재는 국민대학교 소프트웨어학부에 재학하고 있습니다.
 
-Here are some ideas to get you started:
+[![Jaewook's github stats](https://github-readme-stats.vercel.app/api?username=jaewoook&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
+[![portfolio](https://img.shields.io/badge/-portfolio-red?style=for-the-badge)](https://portfolio.jaewook.me)
+[![blog](https://img.shields.io/badge/-blog-black?style=for-the-badge)](https://jaewook.me)
+[![linkedin](https://img.shields.io/badge/-linkedin-0077b5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahnjaewook/)
+[![BOJ](https://img.shields.io/badge/-boj-3277bc?style=for-the-badge)](https://www.acmicpc.net/user/ajw4586)
