@@ -5,6 +5,48 @@
 [![Jaewook's github stats](https://github-readme-stats.vercel.app/api?username=jaewoook&count_private=true&show_icons=true&custom_title=Jaewook's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    68 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.42% 
+🌆 Daytime    281 commits    ███████░░░░░░░░░░░░░░░░░░   30.64% 
+🌃 Evening    360 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
+🌙 Night      208 commits    █████░░░░░░░░░░░░░░░░░░░░   22.68%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
+Tuesday      185 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17% 
+Wednesday    165 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
+Thursday     124 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Friday       161 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
+Saturday     79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62% 
+Sunday       87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   29.71% 
+TypeScript               6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.19% 
+Kotlin                   2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
+Python                   1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+XML                      1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.72%
+
+```
+
+**Timeline**
+
+![Chart not found](https://github.com/Jaewoook/Jaewoook/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css&langs_count=7&exclude_repo=algorithm-study)](https://github.com/anuraghazra/github-readme-stats)
