@@ -1,8 +1,9 @@
 name: WakaTime Stats
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '*/1 * * * *'
+    - cron: '0 9 * * *'
 
 jobs:
   update-readme:
