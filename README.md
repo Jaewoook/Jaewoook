@@ -4,6 +4,9 @@
 
 [![Jaewook's github stats](https://github-readme-stats.vercel.app/api?username=jaewoook&count_private=true&show_icons=true&custom_title=Jaewook's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css&langs_count=7&exclude_repo=algorithm-study)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
