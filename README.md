@@ -4,32 +4,7 @@
 
 [![Jaewook's github stats](https://github-readme-stats.vercel.app/api?username=jaewoook&count_private=true&show_icons=true&custom_title=Jaewook's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-🌆 Daytime    287 commits    ███████░░░░░░░░░░░░░░░░░░   28.73% 
-🌃 Evening    388 commits    █████████░░░░░░░░░░░░░░░░   38.84% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   42.95% 
-Kotlin                   4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
-Java                     2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.9% 
-XML                      1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-YAML                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
-
-```
-
-
-<!--END_SECTION:waka-->
+[![Jaewook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css&langs_count=7&exclude_repo=algorithm-study)](https://github.com/anuraghazra/github-readme-stats)
 
