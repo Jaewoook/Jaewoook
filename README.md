@@ -6,7 +6,7 @@
 
 [![Jaewook's wakatime stats](https://github-readme-stats-jaewoook.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-jaewoook.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css&langs_count=7&exclude_repo=algorithm-study)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jaewoook.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css,javascript,jupyter%20notebook&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 
 
