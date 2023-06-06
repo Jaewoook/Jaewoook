@@ -4,7 +4,7 @@
 
 [![Jaewook's github stats](https://github-readme-stats-jaewoook.vercel.app/api?username=jaewoook&count_private=true&include_all_commits=true&show_icons=true&custom_title=Jaewook's%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Jaewook's wakatime stats](https://github-readme-stats-jaewoook.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaewook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-jaewoook.vercel.app/api/top-langs/?username=jaewoook&layout=compact&hide=html,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
