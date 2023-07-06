@@ -6,6 +6,10 @@ Thank you for visiting my profile. Any questions, feedbacks, PRs are welcome :bl
 
 [![Jaewook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## External Links
 
 [![portfolio](https://img.shields.io/badge/-portfolio-red?style=for-the-badge)](https://portfolio.jaewook.me)

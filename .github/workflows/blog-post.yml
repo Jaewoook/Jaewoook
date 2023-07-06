@@ -1,0 +1,17 @@
+name: "Blog Post"
+
+on:
+  schedule:
+    - cron: "0 0 1/7 * *"
+  workflow_dispatch:
+
+jobs:
+  get-blog-post:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Pull in jaewook.me posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://jaewook.me/rss.xml"
