@@ -6,7 +6,7 @@ Thank you for visiting my profile. Any questions, feedbacks, PRs are welcome :bl
 
 [![Jaewook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Blog posts
+## Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [함수형 React 컴포넌트 시대, defaultProps는 더 이상 필요하지 않다.](https://jaewook.me/react-default-props-and-functional-component)
 - [Go Competitive Programming을 위한 빠른 입출력하기](https://jaewook.me/golang-fast-io-for-competitive-programming)
