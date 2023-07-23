@@ -2,9 +2,36 @@
 
 Thank you for visiting my profile. Any questions, feedbacks, PRs are welcome :blue_heart:
 
-[![Jaewook's github stats](https://github-readme-stats.vercel.app/api?username=jaewoook&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Jaewook's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a alt="Jaewook's github stats" href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Jaewoook&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=Jaewoook&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jaewoook&show_icons=true" />
+    </picture>
+  </a>
+</div>
+<div>
+  <a alt="Jaewook's wakatime stats" href="https://github.com/anuraghazra/github-readme-stats">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jaewoook&layout=compact" />
+    </picture>
+  </a>
+</div>
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
