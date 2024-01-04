@@ -35,11 +35,11 @@ Thank you for visiting my profile. Any questions, feedbacks, PRs are welcome :bl
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [주기적으로 해야되는 작업 봇한테 떠넘기는 법](https://jaewook.me/build-batch-task-bot)
 - [함수형 React 컴포넌트 시대, defaultProps는 더 이상 필요하지 않다.](https://jaewook.me/react-default-props-and-functional-component)
 - [Go Competitive Programming을 위한 빠른 입출력하기](https://jaewook.me/golang-fast-io-for-competitive-programming)
 - [크롬 익스텐션에 구글 애널리틱스 적용하기](https://jaewook.me/ga-in-browser-extension)
 - [주소검색 브라우저 익스텐션 개발기](https://jaewook.me/kor-address-extension-dev-log)
-- [AWS API Gateway에 커스텀 도메인 연결하기](https://jaewook.me/aws-api-gateway-with-custom-domain)
 <!-- BLOG-POST-LIST:END -->
 
 ## External Links
