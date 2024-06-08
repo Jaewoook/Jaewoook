@@ -35,11 +35,11 @@ Thank you for visiting my profile. Any questions, feedbacks, PRs are welcome :bl
 
 ## Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [구글 코리아 인턴십 인터뷰 회고록](https://jaewook.me/google-korea-interview-review)
 - [백준 1036 - 36진수 Python 풀이](https://jaewook.me/baekjoon-1036-review)
 - [로그인 개발 없이 간단하게 인증을 만들 순 없을까?](https://jaewook.me/cloudfront-endpoint-basic-auth)
 - [주기적으로 해야되는 작업 봇한테 떠넘기는 법](https://jaewook.me/build-batch-task-bot)
 - [함수형 React 컴포넌트 시대, defaultProps는 더 이상 필요하지 않다.](https://jaewook.me/react-default-props-and-functional-component)
-- [Go Competitive Programming을 위한 빠른 입출력하기](https://jaewook.me/golang-fast-io-for-competitive-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ## External Links
